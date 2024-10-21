@@ -77,8 +77,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-- Data sources: [List your data sources for cost of living indices]
-- Any libraries or tools you want to give credit to
+- Data sources: [https://www.numbeo.com/cost-of-living/]
 
 ## Contact
 Andrew Kime - [@drewrkime](www.linkedin.com/in/drewrkime) - andrew@ETHYRA.org
