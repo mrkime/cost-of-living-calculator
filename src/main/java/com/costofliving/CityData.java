@@ -8,7 +8,8 @@ public class CityData {
     static {
         // US Cities
         // The values now represent percentages where 100 is the national average
-        // These are estimates for October 2024 based on current trends and projections
+        // These are estimates for October 2024 based on current trends
+        // Yes I could have used an API but alas ... I cannot afford 
 
         // Alabama
         costOfLivingIndex.put("Birmingham, AL", 89.3);
