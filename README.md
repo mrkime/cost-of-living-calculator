@@ -74,7 +74,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mrkime/cost-of-living-calculator/LICENSE.md) file for details.
 
 ## Acknowledgments
 - Data sources: [https://www.numbeo.com/cost-of-living/]
@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 Andrew Kime - [@drewrkime](www.linkedin.com/in/drewrkime) - andrew@ETHYRA.org
 
-Project Link: [https://github.com/yourusername/cost-of-living-calculator](https://github.com/yourusername/cost-of-living-calculator)
+Project Link: [https://github.com/mrkime/cost-of-living-calculator](https://github.com/mrkime/cost-of-living-calculator)
