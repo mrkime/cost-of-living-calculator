@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+#result {
+    background-color: #f1f1f1;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#result.success {
+    color: green;
+}
+
+#result.error {
+    color: red;
+}
